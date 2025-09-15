@@ -1,5 +1,5 @@
 # About Me:
-Currently going through my undergraduate degree in physics at Seoul National University.<br>My code is centered around projects I need for my degree.<br>Most of my experience is in modelling physical phenomena and data analysis.<br>I am very comfortable with Python and have some experience in Java and JavaScript.<br>I am familiar with typesetting languages such as LaTeX with emphasis on the creation of research-quality reports.<br> I am also capable of creating scientific-level diagrams through the vector graphics editor Inkscape<br><br>
+Currently doing my undergraduate studies in physics at Seoul National University.<br>My code is centered around projects I need for my degree.<br>Most of my experience is in modelling physical phenomena and data analysis.<br>I am very comfortable with Python and have some experience in Java and JavaScript.<br>I am familiar with typesetting languages such as LaTeX with emphasis on the creation of research-quality reports.<br> I am also capable of creating scientific-level diagrams through the vector graphics editor Inkscape<br><br>
 
 
 ## 🌐 Socials:
